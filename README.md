@@ -25,7 +25,7 @@ To run the Coinmarketcap Spider, you need to have the following installed:
 
 2. To run the spider, use the following command:
 
-`scrapy crawl coinmarketcap_spider -o output_file.json`'''
+`scrapy crawl coinmarketcap_spider -o output_file.json`
 
 Replace `output_file.json` with the desired filename to save the scraped data in JSON format. You can use other output formats like CSV or XML as well.
 
